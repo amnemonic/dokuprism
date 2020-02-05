@@ -1,0 +1,12 @@
+pre.plain {
+    border: none;
+    border-radius: 2px;
+    box-shadow: none;
+}
+
+pre.plain > code {
+    box-shadow: none;
+    font-size: 0.85em;
+    line-height: 1;
+    font-family: "Roboto Mono", Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+}
