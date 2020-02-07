@@ -1,7 +1,7 @@
 base   dokuprism
 author Adam Mnemnonic
 email  <adam85mn@gmail.com>
-date   2020-02-05
+date   2020-02-07
 name   Prism Highligter
 desc   Syntax highlighting of source code snippets in DokuWiki page using PRISM engine
 url    https://www.dokuwiki.org/plugin:dokuprism
