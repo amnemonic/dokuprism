@@ -10,3 +10,10 @@ pre.plain > code {
     line-height: 1;
     font-family: "Roboto Mono", Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 }
+div.page pre[class*="language-"] {
+    padding: .3em;
+}
+
+div.page div.code-toolbar {
+    overflow: auto;
+}
