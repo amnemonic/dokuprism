@@ -8,3 +8,4 @@
 
 $meta['override_code'] = array('onoff');
 $meta['override_file'] = array('onoff');
+$meta['lanuages_list'] = array('string');

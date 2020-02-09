@@ -8,3 +8,4 @@
 
 $conf['override_code'] = 1;
 $conf['override_file'] = 1;
+$conf['lanuages_list'] = 'py|html|php|css|js';

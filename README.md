@@ -9,3 +9,8 @@ By default this plugin override builtin `<code>` and `<file>` tags. You can chan
 3. On **Manual Install** tab  in field **Install from URL** paste this link:  
 `https://github.com/amnemonic/dokuprism/archive/master.zip`
 4. Press **Install** button
+
+# Links
+* https://www.dokuwiki.org/plugin:dokuprism
+* https://prismjs.com
+* https://www.dokuwiki.org
