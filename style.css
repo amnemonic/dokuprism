@@ -9,6 +9,7 @@ pre.plain > code {
     font-size: 0.85em;
     line-height: 1;
     font-family: "Roboto Mono", Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    padding: 0;
 }
 div.page pre[class*="language-"] {
     padding: .3em;
