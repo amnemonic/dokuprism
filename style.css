@@ -13,6 +13,7 @@ pre.plain > code {
 }
 div.page pre[class*="language-"] {
     padding: .3em;
+    line-height: 1;
 }
 
 div.page div.code-toolbar {
