@@ -61,7 +61,7 @@ class syntax_plugin_dokuprism_code extends DokuWiki_Syntax_Plugin {
         if($format == 'xhtml'){
             switch ($state) {
                 case DOKU_LEXER_ENTER:
-                    $language .= $renderer->_xmlEntities($match);
+                    $language = $renderer->_xmlEntities($match);
                     $renderer->doc .= '<pre class="plain"><code class="language-'.$language.'">';
                     break;
                 case DOKU_LEXER_UNMATCHED:
